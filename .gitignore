@@ -1,2 +1,3 @@
-AVR-DA_USART_Hello_World/.vs
-AVR-DA_USART_Hello_World/AVR-DA_USART_Hello_World/Debug
+*/.vs
+*/avr128da48-usart-example/Debug/
+*/avr128da48-usart-example/Release/
